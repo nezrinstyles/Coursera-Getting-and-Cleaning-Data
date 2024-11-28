@@ -1,5 +1,3 @@
-# Coursera-Getting-and-Cleaning-Data
-
 # Human Activity Recognition - Tidy Dataset Creation
 
 This repository contains the R script and supporting documentation for the "Getting and Cleaning Data Course Project."
